@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "674685439403",
+    "firebase_url": "https://projectdht11-72d14-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "projectdht11-72d14",
+    "storage_bucket": "projectdht11-72d14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674685439403:android:74eb6f7986c4750ead96ee",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_test2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7hZVacHXsp9g-0SHOJHBB1B-xN65DrrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
