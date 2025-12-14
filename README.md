@@ -1,3 +1,3 @@
-# flutter_application_test2
+# AplikasiMonitoringSmartPot
 
 A new Flutter project.
