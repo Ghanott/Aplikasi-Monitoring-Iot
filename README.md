@@ -1,3 +1,3 @@
 # AplikasiMonitoringSmartPot
 
-A new Flutter project.
+Aplikasi ini digunakan untuk memonitoring smartpot dalam ruangan.
